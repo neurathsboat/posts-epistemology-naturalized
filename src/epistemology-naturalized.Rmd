@@ -26,4 +26,20 @@ a kind of laziness pulls me back into my old ways.
 
 [@descartesMeditationsFirstPhilosophy1614]
 
+In this article, I will outline 
+[W. V. O. Quine's](https://en.wikipedia.org/wiki/Willard_Van_Orman_Quine) 
+thesis on the development of a naturalistic approach in epistemology 
+and the related discussion that has emerged from his proposal. 
+I will also present my views on this venture.
+The goals of this article are to explore the limits and required conditions 
+of science in general and neuroscience in particular,
+but also to assess to what extent the scientific study of the mind 
+can contribute to the foundation of scientific practice itself. 
+I chose to enter into such an endeavour 
+through reconstitution of Quine's arguments 
+as formulated mainly in the articles of “Epistemology
+Naturalized” (Quine, 1969/2004) 
+and “Two Dogmas of Empiricism” (Quine, 1951), 
+and a selective review of articles from the later literature.
+
 ## References
