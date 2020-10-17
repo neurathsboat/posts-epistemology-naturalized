@@ -6,6 +6,8 @@ output:
   md_document:
     variant: markdown_strict+backtick_code_blocks+autolink_bare_uris
   pdf_document: default
+bibliography: "references.bib"
+link-citations: yes
 ---
 
 ```{r knitr_opts, cache=FALSE, include=FALSE}
@@ -15,3 +17,13 @@ knitr::opts_chunk$set(fig.path = "img/",
                       fig.asp = 0.5)
 ```
 
+
+## Introduction
+
+>However far I go in my distrustful attitude, no actual harm will come of it, because my project won’t
+affect how I act, but only how I go about acquiring knowledge. [...] This will be hard work, though, and
+a kind of laziness pulls me back into my old ways.
+
+[@descartesMeditationsFirstPhilosophy1614]
+
+## References

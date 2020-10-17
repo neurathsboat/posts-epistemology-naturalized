@@ -6,8 +6,8 @@ lastmod = 2019-01-01
 draft = false
 
 tags = ["philosopy", "epistemology"]
-summary = "The implications of Quine's work on the foundations of science"
-abstract = "The implications of Quine's work on the foundations of science"
+summary = "The implications of Quine's work for the foundations of science"
+abstract = "The implications of Quine's work for the foundations of science"
 authors = ["Vassilis Kehayas"]
 hasPlotly = false
 doi = ""

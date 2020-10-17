@@ -1,12 +1,10 @@
 #!/usr/bin/env Rscript
 
 # Helper function to replace YAML header with TOML
-ReplaceHeader = function(fileName) {
+InsertHeader = function(fileName) {
   fileContents = readLines(fileName)
-  yamlInd = grep("---", fileContents)
-  strippedOfHeader = fileContents[(yamlInd[2] + 1):length(fileContents)]
-  newHeader = readLines("header")
-  fileWithNewHeader = c(newHeader, strippedOfHeader)
+  newHeader = readLines("src/header")
+  fileWithNewHeader = c(newHeader, fileContents)
   writeLines(fileWithNewHeader, fileName)
 }
 
@@ -14,13 +12,8 @@ ReplaceHeader = function(fileName) {
 contents0 = dir()
 
 # Post-process .md file
-ReplaceHeader("index.md")
+InsertHeader("src/index.md")
 
-# Move new files one level up
-newFiles = contents0[!grepl(c(".Rmd|header|.Rproj|.R"),
-                            contents0,
-                            fixed = FALSE)]
-lapply(newFiles, function(x) {
-  system(paste("cp -r", x, "../"))
-  system(paste("rm -rf", x))
-})
+# Move new file one level up
+
+system(paste("mv", "src/index.md", "index.md"))
