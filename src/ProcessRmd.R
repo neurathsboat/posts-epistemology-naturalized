@@ -8,9 +8,6 @@ InsertHeader = function(fileName) {
   writeLines(fileWithNewHeader, fileName)
 }
 
-# Store file names of files already present
-contents0 = dir()
-
 # Post-process .md file
 InsertHeader("src/index.md")
 

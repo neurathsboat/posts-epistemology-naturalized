@@ -1,10 +1,10 @@
 ---
 title: "Epistemology naturalized"
 output:
-  html_document:
-    keep_md: yes
   md_document:
     variant: markdown_strict+backtick_code_blocks+autolink_bare_uris
+  html_document:
+    keep_md: yes
   pdf_document: default
 bibliography: "references.bib"
 link-citations: yes
@@ -16,9 +16,6 @@ knitr::opts_chunk$set(fig.path = "img/",
                       dpi = 300,
                       fig.asp = 0.5)
 ```
-
-
-## Introduction
 
 >However far I go in my distrustful attitude, no actual harm will come of it, because my project won’t
 affect how I act, but only how I go about acquiring knowledge. [...] This will be hard work, though, and
@@ -37,9 +34,450 @@ but also to assess to what extent the scientific study of the mind
 can contribute to the foundation of scientific practice itself. 
 I chose to enter into such an endeavour 
 through reconstitution of Quine's arguments 
-as formulated mainly in the articles of “Epistemology
-Naturalized” (Quine, 1969/2004) 
-and “Two Dogmas of Empiricism” (Quine, 1951), 
+as formulated mainly in the articles 
+“*Epistemology Naturalized*” [@quineEpistemologyNaturalized1969]
+and “*Two Dogmas of Empiricism*” [@quineTwoDogmasEmpiricism1951], 
 and a selective review of articles from the later literature.
+
+## Introduction
+
+Epistemology is the branch of philosophy that deals with human knowledge:
+what is knowledge, how we acquire it and what we have the capacity know. 
+Its specific objectives are to address the relevant issues
+in the context of scientific practice, 
+as this can be considered the field in which knowledge processes 
+can be better described in relation to common social practice 
+but also the field in which epistemological positions have 
+the most direct impact.
+The roots of epistemology can be traced 
+even to the oldest philosophical texts,
+and certainly to those of Aristotle and Plato.
+
+### Enlightenment
+
+An important development in this field of human thought
+arose with the work of 
+[Renè Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
+[@descartesMeditationsFirstPhilosophy1614] 
+who tried to base all human knowledge on intuition and deductive logic.
+The philosophical current in which such theories of knowledge were articulated
+is called *intuitionism* or *foundationalism*, 
+which is part of the wider school of thought of 
+[*rationalism*](https://en.wikipedia.org/wiki/Rationalism).
+
+Descartes' search for the foundations of knowledge 
+emerged from challenging the established beliefs 
+and the reliability of sensory experience. 
+[David Hume](https://en.wikipedia.org/wiki/David_Hume)
+gave a different answer to the same question, 
+arguing that any intuition we have 
+as well as the ability to reason 
+are equally susceptible to error 
+as sensory experience,
+given that our interface with the world is exclusively through the senses.
+The source of unreliability is therefore attributed
+to basing our intuitions on our susceptible to error senses.
+This is known as the problem of induction 
+and one can distinguish its ontological and methodological components.
+The ontological component is that 
+the concept of causality does not appear to exist in the world; 
+even the most stereotypical interaction between objects in the real world 
+could evolve differently in some repetition,
+without us being able to distinguish the reason for this deviation
+-- the methodological component.
+Therefore, this thesis leads to a degree of skepticism 
+as to what we can know.
+Hume argued that our senses are the only way we have to know the world 
+and that is enough for our usual needs, 
+as long as the world is uniform and does not change suddenly
+[@earmanConfirmationScientificHypotheses1992a, pp. 66].
+
+Although Hume's position was not initially well received
+[@fieserHumeMetaphysicalEpistemological2011; @loseeHistoricalIntroductionPhilosophy2001]
+it now holds an important place in the history of philosophy 
+and the current that is included is called 
+[*empiricism*](https://en.wikipedia.org/wiki/Empiricism).
+The next very important contribution to the subject 
+was that of [Immanuel Kant](https://en.wikipedia.org/wiki/Immanuel_Kant).
+Kant argued that we can have no sensory experience
+without the contribution of the mind.
+It is in the unchanging and universal 
+*a priori* properties of the mind 
+that we must focus our attention 
+to be able to produce reliable judgments 
+and beliefs about the world.
+He even suggested a series of *a priori* 
+contributions of the mind to the understanding of the world, 
+which largely derive their origin from the work of Aristotle
+[@mccormickImmanuelKantMetaphysics2020].
+He believed that these properties of the mind 
+could be deducted using formal logic 
+and in combination with the innate spatio-temporal perception 
+as well as higher logic, 
+can jointly enable the knowledge of the world 
+and the construction of a coherent system of knowledge
+[@loseeHistoricalIntroductionPhilosophy2001, pp. 96-97].
+Kant's view was clearly influenced by Euclidean geometry 
+and Newton's mechanics 
+[@loseeHistoricalIntroductionPhilosophy2001, p. 97] 
+and he likened his achievement 
+to the contribution of the Copernican revolution
+[@mccormickImmanuelKantMetaphysics2020].
+
+### 20<sup>*th*</sup> century
+
+Through the efforts of Gotlöb Frege and Bertrand Russell 
+to reduce mathematics to formal logic, 
+a systematic language emerged 
+with which older problems could now be described.
+After Einstein's theory of relativity challenged 
+the universal validity of Newton's theory, 
+the philosophers who participated in the so-called "Vienna Circle"
+made an attempt to use this propositional logic
+to dispel any metaphysics from philosophy.
+This historical turning point is often referred to 
+as the "*linguistic turn*" in analytic philosophy.
+Any observational proposition would now 
+be articulated in terms of formal logic 
+and would have to be able to be empirically verified 
+to be considered meaningful.
+This requirement for any proposition 
+to be verifiable in order to make sense 
+(and not to be placed in the realm of metaphysics)
+is known as the *criterion of verifiability* 
+and the theoretical framework in which it was articulated,
+the [*verification theory of meaning*](https://en.wikipedia.org/wiki/Verificationism).
+It would therefore be possible 
+to build the necessary set of propositions 
+on which scientific practice could be based.
+Kant's contribution to the knowledge of the world 
+that Kant proposed would have been replaced 
+by the grid of logical relations 
+between observational propositions 
+and the axioms of formal logic.
+The scientific propositions would therefore be divided 
+into *analytic* and *synthetic*, 
+with the former not requiring empirical verification 
+and being logically self-evident, 
+and the latter being those 
+whose meaning derives from their empirical verification.
+One of the representatives of 
+[*Logical Positivism*](https://en.wikipedia.org/wiki/Logical_positivism), 
+as the philosophical current is called, 
+who is considered to have managed 
+to get closer to the desired achievement was 
+[Rudolf Carnap](https://en.wikipedia.org/wiki/Rudolf_Carnap)
+[@earmanConfirmationScientificHypotheses1992a, p. 85].
+More specifically, 
+Carnap attempted to structure an inductive logic system 
+to the standards of Frege and Russell's deductive logic, 
+which would result in an answer to the induction problem 
+on the solid basis of formal logic.
+The main problem Carnap faced was that, 
+even if he managed to complete the task he had undertaken, 
+he would have to be able to prove 
+the validity of the verifiability criterion itself
+within the system he produced 
+and how analytic propositions within this system are supported.
+But as 
+[Kurt Gödel](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del) 
+has shown, 
+using Hilbert's arsenal of formal logic and mathematical formalism, 
+there is no consistent axiomatic (mathematical) system 
+in which its own fundamental axioms can be proved.
+Therefore, for Carnap to succeed, 
+he would have to explain 
+the role of analytic propositions in his system.
+
+### The Carnap-Quine dispute
+
+In his article "Empiricism, Semantics, and Ontology"
+[@carnapEmpiricismSemanticsOntology1950]
+Carnap tries to support the usefulness of the analytic propositions
+by separating the possible questions 
+that could be asked in relation to the system 
+into internal and external.
+Internal questions are those 
+that can be formulated in terms of the system 
+and answered within it;
+they can be either empirical questions 
+or questions the answers to which can be directly derived
+from the use of logic.
+External questions, on the other hand, 
+are those that cannot be explored empirically.
+Such is for example the question 
+"Are there spatio-temporal points?".
+If it is articulated outside the system, 
+its answer is a matter of convention 
+and pragmatic faith in the system 
+-- otherwise, formulated within the system, 
+its answer is analytic and trivial.
+
+Quine's critique in the much-discussed article 
+"Two Dogmas of Empiricism” [@quineTwoDogmasEmpiricism1951] 
+on Carnap's project focused on two interconnected points.
+First, he argued that the attempt to discriminate
+between analytic and synthetic sentences 
+is artificial and vague.
+Such a distinction can not be supported and is not fruitful, 
+and therefore is a metaphysical belief 
+-- exactly what the empiricists of the Vienna cycle wanted to avoid.
+The existence of analyticity becomes problematic 
+as the analyticity of a sentence cannot be verified.
+Therefore, the criterion of verifiability, 
+which is the cornerstone of Logical Positivism, 
+cannot be applied.
+Quine considers that the doctrine of analyticity, as he calls it, 
+is directly related to the second doctrine of Logical Positivism, 
+that of reductionism.
+He even claims that the two doctrines are identical 
+and that we are necessarily led from one to the other 
+if we use the criterion of verifiability.
+He draws these conclusions by examining 
+the different avenues that Carnap tried to follow 
+to support the concept of analyticity: 
+synonymy, direct definition, and explicit semantic rules, 
+and finds them all equally ineffective and vague.
+In his view, as long as one is committed to empiricism
+one can only accept the confirmatory empirical observations 
+as the final evidence for a proposition's degree of truth.
+
+Quine goes even further 
+and presents a positive counter-proposition: 
+he argues that "the unit of empirical significance is the whole of science" 
+[@quineTwoDogmasEmpiricism1951, p. 39].
+"The totality of our so-called knowledge or beliefs, 
+from the most casual matters of geography and history 
+to the profoundest laws of atomic physics or even pure mathematics and logic,
+is a man-made fabric which impinges on experience only along the edges."
+[@quineTwoDogmasEmpiricism1951, p. 39]
+The above passage presents what Quine proposed 
+as a replacement for the two doctrines of logical empiricism 
+-- the *doctrine of holism*, which he attributed to Duhem 
+[@quineEpistemologyNaturalized1969, p. 267].
+According to this, 
+the whole body of our empirical knowledge 
+is tested with every new observation 
+and no part of it is immune to revision 
+-- every "recalcitrant" observation, 
+such that it is not compatible with existing knowledge, 
+affects the whole system due to the interconnections between its parts.
+Even logic can be revised, 
+if this is necessary to maintain the balance of this whole web.
+It is this interdependence of the components of our empirical knowledge 
+that leads to the famous *indeterminacy of translation*
+[@quineEpistemologyNaturalized1969, p. 267].
+
+In his book "Word and Object"
+[@quineWordObject1960, p. 29], 
+Quine compares the problem of the indeterminacy of translation 
+with the analogous problem faced by the anthropologist 
+who approaches a previously unknown tribe 
+and tries to decipher and translate the language of the natives
+that is completely foreign for the anthropologist.
+At the sound of the word "Gavagai!" 
+and in case this is followed by the happy coincidence
+of the native indicating the presence of a rabbit 
+that suddenly jumped out of the bushes, 
+it is reasonable for the anthropologist 
+to assume that the word corresponds to the word "rabbit!" in his own language.
+But based on these data alone, 
+there are countless other equally plausible alternatives.
+For example, the native could have meant 
+"a rabbit jumped out of that bush!" 
+or "I told you it was there!", 
+or "a spatio-temporal blob of matter!" 
+or simply "food!".
+With just a single observation 
+we are not able to ascertain if any of these translations is correct.
+But as observations accumulate 
+and as they relate to each other, 
+possibly also with knowledge of other related languages, 
+as is usually the case, 
+the more confident we can be for the veracity of translation.
+
+Therefore, a "recalcitrant" empirical observation 
+only tells us that something in the way we interpret the world 
+is wrong but does not tell us what.
+There is no one-to-one correspondence 
+between experience and theory 
+and therefore the error can be found 
+either in the auxiliary hypotheses 
+or in the foundations of the knowledge system.
+It is said that theory is *underdetermined* by experience
+[@hyltonWillardVanOrman2020].
+The only way forward is to make some arbitrary choices 
+along the way towards the full translation, 
+which will only be verifiable and correctable 
+based on the following observations.
+It is also reasonable to assume that 
+concepts are formed in a similar way 
+during the development of infants 
+and during the development of science
+[@quineEpistemologyNaturalized1969, p. 81].
+
+### Towards a naturalistic epistemology
+
+If Quine is right to claim 
+that the above analogy between human development and epistemology holds, 
+this has important consequences according to him.
+On the one hand, 
+the possibility of directly reducing epistemology to logic is ruled out,
+as infinite possible reconstructions are in principle possible.
+All the advantages that such a reduction would have 
+(which in the meantime turned into a reduction to logic 
+in conjunction with set theory, 
+a drastic ontological move according to him) 
+-- the "purity" of logic as reliable and self-evident 
+and therefore the explanation of empirical data in clearer terms, 
+the standardization of scientific explanations 
+and the possible simplification of vocabulary --
+can not be established
+[@quineEpistemologyNaturalized1969, p. 74-75].
+This observation leads Quine to note 
+that the work Carnap undertook was supposed to provide a rational reconstruction, for which we would have no way of determining whether it was correct.
+As we have seen above, 
+Carnap has moved away from such a pursuit 
+by saying that the building blocks of the system 
+are provided through conventions.
+
+At this point Quine wonders:
+"But why all this creative reconstruction, 
+all this make-believe? [...] 
+Why not settle for psychology? [...]
+If we are out simply to understand 
+the link between observation and science, 
+we are well advised to use any available information, 
+including that provided by the very science 
+whose link with observation we are seeking to understand."
+[@quineEpistemologyNaturalized1969, p. 75-76].
+The consequence for the fate of epistemology is, 
+according to Quine, the following:
+"Epistemology in its new setting, conversely, 
+is contained in natural science, as a chapter of psychology."
+[@quineEpistemologyNaturalized1969, p. 83].
+Quine, of course, immediately realizes the circularity of the project.
+However, he considers arguments against circularity pointless
+"once we have stopped dreaming of deducing science from observations"
+[@quineEpistemologyNaturalized1969, p. 76].
+He often likens the project to Neurath's boat
+[@quineEpistemologyNaturalized1969, p. 84; @quineWordObject1960, p. 3];
+the aim is to reconstruct the boat 
+while it is already floating in the middle of the sea.
+For Quine, the philosopher and the scientist are together on the same boat.
+If our goal is the 
+"understanding of science as an institution or process in the world, 
+and we do not intend that understanding 
+to be any better than the science which is its object"
+[@quineEpistemologyNaturalized1969, p. 84],
+then it is legitimate for this interaction to exist.
+
+At the same time, however, he clarifies that:
+"Such a study could still include, even, 
+something like the old rational reconstruction, 
+to whatever degree such reconstruction is practicable; 
+for imaginative constructions 
+can afford hints of actual psychological processes, 
+in much the way that mechanical simulations can"
+[@quineEpistemologyNaturalized1969, p. 83].
+A picture of a reciprocal containment emerges:
+"The old epistemology aspired to contain, in a sense, natural science; 
+it would construct it somehow from sense data. 
+Epistemology in its new setting, conversely, 
+is contained in natural science, as a chapter of psychology. 
+But the old containment remains valid too, in its way. [...]
+There is thus reciprocal containment, 
+though containment in different senses:
+epistemology in natural science and natural science in epistemology."
+[@quineEpistemologyNaturalized1969, p. 83]
+
+Quine identifies two consequences arising from the above:
+First, the problem of epistemological priority is solved, 
+that is, whether observation --and consequently knowledge-- 
+consists of sensory data or their conscious awareness.
+Epistemological priority is given 
+to what is causally closest to the sensory receptors.
+In fact, the problem of epistemological priority 
+is eliminated as the concept is replaced by causal proximity
+[@quineEpistemologyNaturalized1969, p. 84-85].
+Second, the notion of the analyticity of an observation sentences
+can be replaced by the degree to which it is accepted by the community
+[@quineEpistemologyNaturalized1969, p. 86].
+The reference to subjectivity is generally eliminated 
+as observational propositions will usually concern natural bodies
+[@quineEpistemologyNaturalized1969, p. 87].
+
+If we now want to define in this new context 
+what an observational proposition is, 
+we can say that it is a proposition 
+"on which all speakers of the language give the same verdict when given the
+same concurrent stimulation.
+To put the point negatively, 
+an observation sentence is one 
+that is not sensitive to differences in past experience 
+within the speech community"
+[@quineEpistemologyNaturalized1969, p. 86-87].
+Outside the realm of language, 
+in that of perception 
+there is a rather limited set of perceptual patterns, 
+"toward which we tend unconsciously to rectify all perceptions. 
+These, if experimentally identified, 
+could be taken as epistemological building blocks, 
+the working elements of experience. 
+They might prove in part to be culturally variable, 
+as phonemes are, and in part universal."
+[@quineEpistemologyNaturalized1969, p. 90].
+
+### Overview
+
+Quine's work is considered to have marked the end of Logical Positivism.
+Through Carnap's latest writings 
+and Quine's writings presented above, 
+analytic philosophy began moving towards pragmatism.
+It can be argued that Quine's purpose 
+was to save empiricism from the problems that had begun to emerge.
+It is clear from his texts that he wishes 
+to maintain the criterion of verifiability,
+as we have seen it transformed into the new picture,
+and he sees, like the empiricists of the Vienna Circle, 
+physics as the model science for the construction of the new epistemology.
+
+The metaphysical question that Quine wants to answer 
+is how we know the world.
+His position is that this question can be answered 
+through scientific research.
+He therefore rejects the metaphysical doctrine 
+of the existence of some form of *a priori* knowledge.
+He is led to this metaphysical position 
+having rejected the usefulness 
+of a distinction between analytic and synthetic propositions, 
+seeing scientific methodology as the only alternative approach.
+Therefore, he considers that this is an empirical question, 
+which can be answered by the psychology of his time.
+It can be summarized as how we reach 
+what we call knowledge and even science 
+from the activations of our sensory receptors.
+
+As Quine himself acknowledges,
+the question arises as to whether 
+science is legitimized to undertake the task by its own means.
+The debate can be traced, to some extent, 
+to the disagreement between Kant and Hume 
+over what we should trust most, our senses or our reasoning.
+Quine brings back the dilemma proposing two new facts:
+first, modern science is clearly in a better position 
+than in previous centuries 
+to explain the apparently complex psycho-mental phenomena;
+second, we have ceased to seek 
+the absolute certainty that a foundation of knowledge in logic 
+or anything else ever tested would offer us.
+We will focus in turn on each of the critical issues that arise:
+What does the "naturalization" of epistemology mean 
+--what does naturalism mean? 
+How does Quine himself mean it 
+and what other alternatives could be supported?
+What objections arise in the first place for the project? 
+What is at stake in this proposed transition?
+
 
 ## References
