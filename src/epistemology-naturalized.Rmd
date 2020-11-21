@@ -479,5 +479,278 @@ and what other alternatives could be supported?
 What objections arise in the first place for the project? 
 What is at stake in this proposed transition?
 
+## Discussion
+
+### Naturalism
+
+Like any term, the term *naturalism* can carry different meanings, 
+depending on the user, the purpose of its use 
+and the context in which it is used.
+In a first sense, it may be used to indicate, as an opposition, 
+the aversion to anything "supernatural".
+Reality is limited to anything found in nature 
+--a not-so-informative proposition
+[@papineauNaturalism2020; @stroudCharmNaturalism1996].
+Almost anyone would agree with that.
+The first naturalists of the twentieth century 
+already used the term to state that 
+all information is contained in nature 
+and so everything in it is accessible to the scientific method
+[@papineauNaturalism2020].
+Based on these,
+we can distinguish two components of the term: 
+the ontological, that is, 
+what someone allows to be included in the "nature" they have in mind, 
+and the methodological, what are the limits of the naturalistic approach.
+Although the two problems are obviously related, 
+we will mainly approach the latter.
+
+What most philosophers who support 
+the adoption of naturalism in epistemology seem to agree with 
+is the rejection of every *a priori* knowledge 
+and even every *a priori* epistemological principle
+[@kitcherNaturalistsReturn1992; @rosenbergFieldGuideRecent1996].
+The qualification of the scientific methodology 
+and empirical search follows from there.
+In addition, since naturalists denounce every solid foundation 
+they must look for processes or properties 
+that are reliable enough to fill in 
+the role of *a priori* categories and principles 
+(credibility for Kitcher, evolutionary theory for Rosenberg).
+
+A controversy appears to begin 
+about the weight that the scientific explanation effort should carry 
+and the relative role of philosophy and science.
+We can thus distinguish naturalists 
+to those who argue that epistemology should be completely replaced by science 
+and those who argue that a part of the question remains 
+that empirical research cannot access.
+This controversy already existed in Quine's writings.
+
+One can detect both 
+a version of a "strong" naturalistic approach to epistemology,
+but also a "moderate" or "weak" approach
+[@haackTwoFacesQuine1993; @stichNaturalizingEpistemologyQuine1993].
+The first equates to *scientism*, 
+the view that favors science as the best 
+and therefore the only method we should use to discover the world, 
+while the second sees science as complementary to philosophy 
+and possibly as a source for its renewal.
+
+As Haack [-@haackTwoFacesQuine1993] points out, 
+among others, this internal conflict in Quine's writings 
+arises in part from the different use 
+of the term "science" (or "natural science").
+We have already seen that Quine proposes 
+that the work of epistemology be placed in the academic field of psychology 
+--this is a view of the scientistic naturalism that Quine had in mind.
+But how can one think of the times 
+when Quine considers philosophy and science 
+to be part of the same continuum 
+(see parable of Neurath's boat) 
+or when he tells us that "science is self-conscious common sense"
+[@quineWordObject1960, p. 3]?
+At other times Quine includes 
+economics, sociology, and history in the natural sciences 
+[@hyltonWillardVanOrman2020; @sinclairWillardVanOrman2020], 
+while denying, arbitrarily to many, 
+the contribution of the study of the sociological 
+and historical aspects of the issue to epistemology 
+[@quineEpistemologyNaturalized1969, p. 87].
+
+Disagreements also arise over how one places oneself 
+in the dilemma of realism versus anti-realism.
+In simple terms, this dilemma can be expressed as follows: 
+is the image of the world that science offers us
+an accurate representation of the world itself 
+or is it merely an instrumental conceptual form 
+that we can use to access it?
+One would expect that the certainty required 
+to advance the naturalistic approach to the prevailing epistemological approach
+would force any proponent to argue that scientific knowledge is real.
+But the indeterminacy of translation 
+seems to lead directly to anti-realism.
+Since two or more theories may equally well 
+reflect the incoming empirical observations, 
+which of the possible worlds described by them is real?
+
+All these disagreements around 
+the degree to which science should be involved in epistemology
+stem from the answers the naturalists attempt to provide
+to two perceived deficiencies that naturalism is charged with,
+the argument from normativity and the argument from circularity, 
+as well as from differing opinions 
+on the degree of transformation of epistemology itself 
+after entrance of naturalism.
+We will now examine whether the existence of *a priori* knowledge 
+and the possible sources of reliability 
+that can emerge in the context of scientific research 
+can be supported if we assume the naturalistic approach.
+
+#### The argument from circularity
+
+The first flaw that can be directly identified 
+in the naturalistic approach to epistemology 
+is that of circularity.
+The use of science in the attempt to explain the phenomenon of knowledge 
+and of science itself involves circularity: 
+it appears to presuppose what is being attempted to explain.
+It is tantamount to question begging 
+and this is automatically considered condemnatory of any argument: 
+the conclusion of the argument necessarily follows from one of the premises.
+To put it another way, 
+how can one convince Descartes' Skeptic 
+that the world of our senses 
+is indeed as we know it and we are not deceived?
+To achieve this 
+(something that would give rise 
+to the foundation of empirical science with complete certainty) 
+this would have to be done outside the framework of science, 
+which is itself based on experience.
+
+An answer given to this argument by the supporters of the naturalistic approach,
+following Hume, is that in no way can we overcome our cognitive limitations.
+There is no way we can guarantee the certainty of our experience.
+As we have seen, Quine tells us that the problem no longer exists, 
+as long as we stop dreaming of the logical reconstruction of science.
+The problem can be approached scientifically:
+"Subtracting his cues from his world view, 
+we get man’s net contribution as the difference".
+[@quineWordObject1960, p. 4].
+Of course, the findings of science 
+will not have the certainty that Descartes was aiming for, 
+but science has the ability to constantly self-correct.
+
+In addition, according to Gödel's theorems, 
+a coherent formal system will either have unjustified initial assumptions 
+or will be cyclical and feedback-based
+[@sosaNatureUnmirroredEpistemology1983].
+Proponents of the naturalistic approach will tend to prefer the latter.
+An approach attempting to base knowledge on logic 
+--or any other property or process--
+would be equally doomed to circularity, 
+as it would have to assume itself 
+before trying to explain how it leads to knowledge.
+
+Furthermore, a circular argument whose circle is large enough, 
+such as a dictionary containing all the words of a language, 
+does provide some information and therefore cannot be considered a fallacy 
+[@dowdenFallacies2020].
+Something analogous in epistemology could be 
+to form an as complete as possible dictionary
+for the components of knowledge.
+Logical Positivism proposed the language of formal logic 
+(later supplemented by set theory);
+Quine proposed a change of language in favour of the language of science, 
+or, in any case, the language that describes the world as it really is.
+And it is to be expected that the language itself 
+will continue to evolve along the way.
+In fact, it is difficult to see how the whole of human knowledge 
+can be judged on the same terms 
+that circular arguments are judged to be fallacious.
+Therefore, in relation to the issue of circularity, 
+the two different approaches seem to be equivalent.
+In a rational reconstruction, 
+assuming that there can exist one 
+to be more successful than those already tested, 
+one or some of the cognitive or other qualities of man 
+(or even human societies)
+will be considered the fundamental building blocks 
+on which a theory of knowledge will based.
+On the other hand, according to the naturalistic approach, 
+the equivalent to those foundations (the axioms of science) 
+will be under constant review as new empirical data emerge.
+In the first case, the circle will be closed at the base of the hierarchy, 
+close to the structural elements which will be considered stable 
+and any changes will be made to the elements closest to the periphery, 
+while in the second, the structural elements can be constantly revised, 
+as often as the need arises based on new findings.
+
+#### The argument from normativity
+
+The proposal of adopting the naturalistic approach to epistemology 
+has been accused of ignoring the normative aspect of epistemology.
+This aspect deals with the search for methods and values 
+that should guide us our decision making and our practice,
+and in the context of epistemology concerns 
+the distinction between right and wrong theories and propositions.
+As Rosenberg puts it: 
+"Ethics examines what we ought to do, epistemology what we ought to believe"
+[@rosenbergNaturalisticEpistemologyEliminative1999].
+Hume was the first to point out that 
+empirical research findings cannot be applied indiscriminately. 
+If we do not want to fall into the naturalistic fallacy,
+we must separate *is* from *ought*.
+
+Kim [-@kimWhatNaturalizedEpistemology2008, pp. 540, 542]
+argues that Quine was the first to propose 
+the removal of the concept of normativity from epistemology 
+and its transformation from a project based on justification 
+to an empirical quest now based on a descriptive science.
+This transition, Kim points out, 
+also marks the expulsion of knowledge from epistemology 
+[@kimWhatNaturalizedEpistemology2008, p. 542], 
+a conclusion with which Quine himself would have little disagreement, 
+who had renounced the concept of "knowledge" for serious use, 
+along with that of "necessity", "thought", "belief", "experience", "meaning" 
+and other terms that he considered vague, 
+along with the philosophical questions that required their use, 
+because they had no clear boundaries 
+[@hyltonWillardVanOrman2020; @soberQuineElliottSober2000].
+Stripped of justification and normativity, 
+Quine's undertaking bears no resemblance to epistemology, 
+the way a traditional epistemologist understands it 
+[@kimWhatNaturalizedEpistemology2008, p. 543].
+
+The question that remains is this: 
+if normativity is a necessary component of epistemology 
+and any comprehensive candidate theory of human knowledge, 
+where can it come from and how can it be justified 
+to rigorously establish decisions and practice?
+The issue at this point intersects with the problems 
+that arise in the philosophy of mind.
+How do people (or any other organism, society, or community) make decisions, 
+and how do they distinguish right from wrong?
+We are bound to discussing these issues 
+using the so-called intentional vocabulary, 
+i.e. based on concepts such as beliefs, intentions, desires, etc.
+Therefore, if we want to establish the normativity of epistemology 
+we must find a way to explain these concepts 
+and how their meanings participate in the phenomena that interest us.
+
+What is certain is that modern epistemology has moved away 
+from trying to explain these phenomena 
+in terms of the formal logic like Logical Positivism attempted
+[@kitcherNaturalistsReturn1992].
+If we choose the scientific approach, 
+our theories will certainly be descriptive, 
+at least in the early stages 
+[@churchlandEpistemologyAgeNeuroscience1987].
+But if the intentional component of the mind 
+can in principle be described 
+by any scientific theory that will take on the task, 
+we can assume that we will then be able to approach 
+the question of which of the mediating processes are reliable 
+and which are the ones that provide correct conclusions.
+And in this endeavor we can, possibly, 
+find some support from evolutionary theory 
+[@churchlandEpistemologyAgeNeuroscience1987; @kitcherNaturalistsReturn1992; @quineEpistemologyNaturalized1969; @rosenbergNaturalisticEpistemologyEliminative1999].
+
+The human mind, insofar as it is a product of the human body, 
+should be considered the result of biological evolution.
+This does not mean, of course, 
+that the resulting picture will provide us with 
+the necessary certainty against epistemological skepticism.
+However, it is able to place the processes that lead to knowledge 
+in an evolutionary framework that will not isolate purely human properties 
+from the rest of the phylogenetic scale 
+while at the same time integrating them with the biological constraints 
+(ecological, physical, genetic, etc.) that characterize the human species.
+We should therefore expect some degree of inherent uncertainty 
+and error introduced through those processes.
+The identification of these weaknesses of the human mind 
+is rather what leads those who support the naturalistic approach 
+to resist an *a priori* consolidated depiction of human knowledge.
+
 
 ## References
