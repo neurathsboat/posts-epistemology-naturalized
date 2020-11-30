@@ -90,7 +90,7 @@ as to what we can know.
 Hume argued that our senses are the only way we have to know the world 
 and that is enough for our usual needs, 
 as long as the world is uniform and does not change suddenly
-[@earmanConfirmationScientificHypotheses1992a, pp. 66].
+[@salmonIntroductionPhilosophyScience1999, pp. 66].
 
 Although Hume's position was not initially well received
 [@fieserHumeMetaphysicalEpistemological2011; @loseeHistoricalIntroductionPhilosophy2001]
@@ -167,7 +167,7 @@ as the philosophical current is called,
 who is considered to have managed 
 to get closer to the desired achievement was 
 [Rudolf Carnap](https://en.wikipedia.org/wiki/Rudolf_Carnap)
-[@earmanConfirmationScientificHypotheses1992a, p. 85].
+[@salmonIntroductionPhilosophyScience1999, p. 85].
 More specifically, 
 Carnap attempted to structure an inductive logic system 
 to the standards of Frege and Russell's deductive logic, 
@@ -751,6 +751,371 @@ and error introduced through those processes.
 The identification of these weaknesses of the human mind 
 is rather what leads those who support the naturalistic approach 
 to resist an *a priori* consolidated depiction of human knowledge.
+
+## Critical analysis
+
+### The place of Quine's work in modern epistemology
+
+As we have already mentioned, 
+Quine's attempt was to salvage the legacy of Logical Positivism, 
+transforming as many aspects of it as he considered problematic.
+The two main problems he focused on were the two doctrines of empiricism, 
+as he called them, 
+the doctrine of analyticity and the doctrine of reductionism.
+Instead, he proposes a psychologistical study 
+of how members of the language community integrate 
+and interact to replace analytic and a priori knowledge in general, 
+and the doctrine of holism, which in the context of scientific discourse 
+is implemented by the web of belief 
+and leads to the indeterminacy of translation.
+
+Quine's contribution is now considered by most philosophers 
+to have been instrumental in overthrowing the Logical Positivism approach. 
+The foundation of *a priori* knowledge in a linguistic approach 
+as originally envisioned by Carnap could not succeed. 
+Both Carnap himself in his latest writings and Quine showed this.
+However, contrary to Quine's approach, 
+not everyone agrees that the rejection of foundation in formal logic 
+negates the possibility of producing an *a priori* knowledge explanation 
+in another framework.
+
+Some, therefore, disagree with Quine's first doctrine 
+and the reduction of meaning 
+to the stimulation of our sensory receptors
+[@friedmanPhilosophicalNaturalism1997; @soberQuineElliottSober2000]. 
+Indeed, this approach has the flaws of the behaviorism that Quine embraced. 
+Moreover, Quine's approach on the subject, 
+while convincing us that the concept of analyticity is vague
+no matter how it is defined, 
+does not in itself convince us that there must be 
+a single way of approaching the concept [@soberQuineElliottSober2000].
+
+The doctrine of holism seems to be less questionable. 
+It is generally accepted from Duhem's time 
+that no empirical observation can confirm a theoretical hypothesis 
+[@loseeHistoricalIntroductionPhilosophy2001, p. 150], 
+as more than one auxiliary hypotheses are often considered 
+together with some basic assumptions.
+It can be argued, however, that Quine's epistemological holism does not follow.
+As the most basic assumptions, 
+logic and mathematics are not tested in every experiment 
+[@friedmanPhilosophicalNaturalism1997; @soberQuineElliottSober2000].
+Even if the *a priori* framework proposed by Kant 
+or whatever else we can apprehend does not apply,
+there must always be some preconditions for empirical science 
+that will fulfill the statutory function that, at one reading, Kant meant
+[@friedmanPhilosophicalNaturalism1997].
+
+What is certain is that Quine's work in epistemology 
+sparked a great deal of debate about 
+whether a naturalist epistemology has any merit. 
+We will now turn to the assessment of some of the proposals 
+that have been expressed from time to time.
+
+### Is a naturalized epistemology possible?
+
+There are many philosophers who have followed Quine's urge 
+to introduce an empirical approach to epistemology, 
+even if to some extent they do not accept his analysis. 
+As we have seen, the contribution of evolutionary theory to this endeavour 
+is considered by many to be promising. 
+Note here that, as Kitcher estimates 
+[@kitcherNaturalistsReturn1992, p. 91, footnote 97], 
+evolutionary thinking can contribute to epistemology in two ways: 
+either as a theoretical background that will provide the required credibility 
+to the processes involved, 
+or it will provide the theoretical model, 
+analogous to biological evolution, 
+on the basis of which a theory of knowledge can be developed in formal terms.
+
+Rosenberg considers that a naturalized epistemology 
+is committed to applying evolutionary thinking 
+in the attempt to explain the phenomenon of knowledge 
+[@rosenbergNaturalisticEpistemologyEliminative1999]. 
+For him, this results in the restructuring of the debate 
+and its departure from the search for truth 
+---the focus on truth does not necessarily ensure survival. 
+On the other hand, framing the issue 
+in terms of fitness and reproductive success alone 
+is not able to give us a picture 
+of all the processes involved in the phenomenon. 
+We can imagine conditions of evolutionary stress 
+in which mental wealth arose accidentally or indirectly, 
+due to its relevance to other qualities that provided evolutionary advantage. 
+In particular, the mental substrate 
+that supports knowledge could be superficial, 
+the result of random drift and other non-selective forces 
+that evolutionary theory has identified. 
+It is reasonable to think, however, 
+that such qualities as, for example, "logic", 
+which seem to play an important role in human ecology, 
+have been selected for in the long-term evolution of humans.
+
+But evolutionary theory can only provide the general theoretical background 
+for articulating a comprehensive theory of knowledge 
+in the context of the naturalistic approach to epistemology. 
+A very large part of the scientific burden 
+should be borne by psychology and related sciences. 
+It is through studies at this level 
+that the possible processes for which all this mental substrate 
+is intended will be identified. 
+Once these are recognized,
+we will be able to produce a comprehensive theory of human knowledge 
+that respects the phylogenetic course, 
+the ecology of the species during its evolution, 
+its ontogenetic and developmental limitations 
+and the extent of the relevant traits' diversity. 
+At that point we will have reconstructed 
+the mental vocabulary of nature 
+and we will now be able to reconstruct the scientific practice itself.
+
+It should be emphasized, however, 
+that such an endeavour would have to move on more levels 
+than science has hitherto done, 
+in a somewhat adventurous way, as Lewontin observes 
+[@lewontinTripleHelixGene2001, p. 72].
+
+At one level, for example, Stich 
+[-@stichNaturalizingEpistemologyQuine1993] 
+notes that significant differences are expected to be found 
+between individuals in the way they manage available knowledge 
+and available scientific findings to form a scientific theory, 
+and this differentiation will vary in relation to with factors 
+such as education and other cultural characteristics. 
+He therefore suggests that epistemology should be interested 
+in studying not how each subject manages knowledge, 
+but rather the scientists who are most efficient at it. 
+Although Stich's proposal needs further support, 
+as it does not specify how we will characterize a method as efficient, 
+the observation of the neglect of individual differences 
+so far by epistemology is positive. 
+In fact, Stich is one of the few philosophers 
+who fully embraced Quine's urging 
+and seeks active collection of empirical data, 
+combined with philosophically sensitive analysis
+[for example, see [@nicholsMetaskepticismMeditationsEthnoepistemology2003]].
+
+Another dimension that needs to be studied is the social side of knowledge. 
+Issues identified by Kitcher [-@kitcherNaturalistsReturn1992] at this level 
+are the dissemination of knowledge within the existing social fabric, 
+the distinction between personal and impersonal scientific objectives, 
+the management of scientific disagreements, 
+and the recognition that knowledge subjects 
+may have at the same time scientific and non-scientific objectives. 
+He considers these issues to be related to the field of social epistemology. 
+Issues such as the role of authority in science 
+and communication between proponents of opposing theories posed by Kuhn
+[-@kuhnStructureScientificRevolutions1996]
+can in this context be accessed by empirical science.
+
+In an even broader context, 
+naturalized epistemology could study the aims of science over time. 
+As it is expected to find that they do not remain constant but change, 
+empirical research may identify the criteria by which they change. 
+Whether it will be the realizability, 
+which Laudan probably reasonably concludes, 
+or some still remains in empirical research to determine [@freedmanNormativeNaturalismEpistemic2006].
+
+It follows from the above 
+that a post-epistemological current is beginning to develop 
+within modern epistemology 
+that is interested in studying all possible aspects 
+of the phenomena related to human knowledge. 
+At another level, the integration of all these perspectives 
+into a single theoretical approach 
+will be able to provide us with a comprehensive record 
+of the processes involved in shaping all the related levels 
+and the interactions between them.
+
+Given that the above theoretical framework 
+will have emerged from the empirical study, 
+a degree of epistemological relativism is expected to dominate. 
+But now we have reached the level where we describe 
+all human activity related to the phenomenon of knowledge and science, 
+and the freedom of choosing between multiple alternatives 
+should only be considered an advantage. 
+Who would want to be imposed with the way he will act and perceive the world?
+I think that this freedom should be ensured 
+no matter the ethical framework in place.
+
+Although a thorough presentation is not the subject of the present work, 
+efforts have been made to articulate comprehensive theories 
+of a more limited extent. 
+As an example, one can study the theory of embodied cognition 
+and specifically how it develops 
+in Damasio's discussion on the creation of consciousness [@antoniordamasioFeelingWhatHappens2000]. 
+It is also interesting to see how 
+the conceptual framing of philosophical inquiry 
+begins to be applied to scientific thought in the field of neuroscience, 
+where there has been much talk recently 
+about how biological systems can become able to "know" their environment 
+through prediction and control [@fristonFreeenergyPrincipleUnified2010], 
+something that philosophers set as the goals of knowledge
+[@kitcherNaturalistsReturn1992; @rosenbergNaturalisticEpistemologyEliminative1999].
+
+### In conclusion
+
+As has been made clear so far, 
+Quine caused a great deal of controversy in the second half of the 20th century
+around the foundations of epistemology. 
+His main contribution was to identify the impasses of Logical Positivism. 
+We must emphasize that his critique focused 
+on the distinction between analytical and synthetic propositions, 
+and therefore his analysis cannot be considered 
+as a rejection of any conceivable *a priori* epistemology. 
+Moreover, Quine gives us no convincing reason to believe that 
+"humans, branches, stones, electrons, and molecules are indeed real" 
+[@sosaNatureUnmirroredEpistemology1983, p. 68].
+In essence, it does not tell us how naturalism is legitimized 
+to claim that it is handing over the world to us, 
+if it cannot show that its theoretical objects are indeed part of nature. 
+Another serious limitation is the arbitrary view of 
+who is entitled to engage in naturalistic epistemology: 
+why not Kuhn or Piaget and even Chomsky with his universal grammar 
+(which clearly resists in principle the idea of rejecting the *a priori*). 
+Finally, his idea of the psychological view of meaning and knowledge 
+is genuinely behaviouristic 
+and therefore carries the weaknesses of the approach.
+
+As we have seen before, one element that may be useful in the future 
+is the recognition of the non-scientific aspects of knowledge, 
+which the unbridled scientism of Quine 
+and some of the proponents of the naturalistic approach ignore. 
+Ultimately, what is missing from modern epistemology 
+is a general framework within which 
+all the knowledge produced by the natural sciences can be integrated.
+The leap needed is that it should include 
+a unified account of the cognitive and biological contexts of reference 
+at the same time as the corresponding social and historical perspectives 
+on human goals, 
+transcending all levels of complexity of the relevant phenomena. 
+We have already stressed how important it is for this project 
+to be integrated into a more general evolutionary context 
+at both the ontogenetic and phylogenetic levels.
+
+This endeavour appears to encounter the obstacle of juxtaposing 
+two whole traditions of explanatory models: 
+the so-called causal-mechanistic and the holistic 
+[@salmonIntroductionPhilosophyScience1999, pp. 33-34]. 
+In most cases empirical science tends to look to the causal model. 
+But this view stems, I believe, from a short-sighted view 
+around the recording of scientific practice. 
+Although this model is indeed the most widespread 
+in the methodological practices of the sciences, 
+often --especially in times of crisis-- 
+scientists resort to more holistic explanations. 
+I believe that the present situation, 
+with the attack of the natural sciences 
+on questions about the nature of the phenomena of the mind, 
+is one of them.
+
+We can claim that to an extent the struggle between the two approaches, 
+which can often co-exist even in the same person, 
+reflect the overall relationship of philosophy and science. 
+In principle, philosophy is built on a more holistic approach, 
+while science is oriented towards the causal explanation 
+of the phenomena that surrounds us. 
+To the extent that both are intended to make us more conscious of the world --including ourselves--
+their practice should be complementary. 
+The stakes that arise from the Carnap-Quine controversy 
+and the subsequent debate is 
+whether the roles of philosophy and science should be distinguished. 
+It seems, first of all, that their roles are distinct, 
+as philosophy deals with conceptual analysis 
+while science with collecting empirical data. 
+But empirical science can not be carried out without philosophical thinking 
+and philosophy would be pointless if it was developed 
+to literally engage with all possible worlds. 
+Newton's motivation to oppose 
+Descartes's metaphysically-inspired physical science [@loseeHistoricalIntroductionPhilosophy2001, p. 93] 
+and the subsequent influence of Newton's work in Kant's thought, 
+as we saw, demonstrate this productive interaction in the clearest way.
+
+If we want to deal with the possibility of the existence of *a priori* knowledge
+--and with any other issue, as far as I can see--
+we have to start with some sort of conceptualization. 
+Even more, we are only able to discuss about any issue in the first place 
+using the existing conceptualization. 
+The development of centuries of philosophy is able to offer us with it. 
+But it is expected --and human-- that every concept is flawed. 
+For example, although the existence of innate space perception
+that Kant presupposed is confirmed, after centuries, by empirical research
+[@moserPlaceCellsGrid2008; @palmerKantianViewSpace2010],
+it appears to have decisive properties that could not have been accessible 
+in Kant's time
+[@willsDevelopmentHippocampalCognitive2010].
+More recently, Putnam [-@putnamWhyReasonCan1982]
+claims that force fields, brown objects and dispositions 
+are three non-reducing things or properties. 
+Today we know that for brown objects he was wrong, 
+we have some theoretical models 
+on how fields can be described with simpler terms 
+[@wittenUnravellingStringTheory2005]
+and some indications that the same could hold 
+for the intentional content of the mind. 
+So I would say that we are obliged to use the best conceptualization 
+that philosophy and philosophical thought in general can offer us, 
+but if we would like to make it clearer and in this way more useful, 
+we should submit it to any available test.
+The tests of scientific methodology have so far turned out to be 
+the best to assess the compatibility of a concept with the real world. 
+Our best knowledge will always be on retrospection 
+and concepts together with their explanations 
+will be both remodeled through their interaction.
+
+After all, does science give us a realistic picture of the world? 
+The proponent of the naturalistic approach will ask: 
+in relation to which reality? 
+The theory of evolution suggests that 
+there are almost as many ways of seeing (*sic*) the world 
+as there are different species 
+and the cognitive sciences suggest that diversity 
+even among individuals of the same species exists. 
+For our species, 
+the development of common sense that has acquired self-consciousness, 
+as Quine calls science, 
+is that which appears to display 
+the greatest potential for accurately describing the world. 
+We must use its findings with the required respect 
+for its limitations and specifications, 
+at the cost of continually reviewing its results 
+and all the other virtues that make science possible.
+
+Epistemological relativism, 
+which is sure to stem from a scientific-type investigation 
+into the foundations of epistemology, 
+should not frighten us. 
+The diversity of the subjects' characteristics, 
+their societies and their history 
+should be taken for granted and should not be obscured. 
+Only through a serious study close to the lines we have outlined 
+can a continuous reconstruction of the useful features 
+of the related phenomena be produced that will help us to become more and more
+aware of our structural relations with the world 
+and the interactions between us. 
+The human species stands out in this ability to reflect on its own history, 
+both individually and collectively. 
+And we must pursue this reflection by every means 
+at the disposal of the human mind. 
+If all this sounds utopian, 
+we can not afford to leave it to chance. 
+A well-defined dividing line between philosophy and science is of no use 
+--only the synthetic adoption of their guidelines by each individual 
+can be useful to us.
+
+<blockquote style="text-align:right">
+I want to pause and meditate for a while on this new knowledge of mine,
+fixing it more deeply in my memory.
+</blockquote>
+
+<blockquote style="text-align:right">
+I am afraid that my peaceful sleep may be followed by hard labour when I wake,
+and that I shall have to struggle not in the light 
+but in the imprisoning darkness of the problems I have raised.
+</blockquote>
+<p style="text-align:right">
+[@descartesMeditationsFirstPhilosophy1614]
+<p>
 
 
 ## References
