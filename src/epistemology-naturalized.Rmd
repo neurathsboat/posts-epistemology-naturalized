@@ -6,6 +6,7 @@ output:
   html_document:
     keep_md: yes
   pdf_document: default
+csl: "apa.csl"
 bibliography: "references.bib"
 link-citations: yes
 ---
@@ -21,22 +22,22 @@ knitr::opts_chunk$set(fig.path = "img/",
 affect how I act, but only how I go about acquiring knowledge. [...] This will be hard work, though, and
 a kind of laziness pulls me back into my old ways.
 
-[@descartesMeditationsFirstPhilosophy1614]
+[@descartesMeditationsFirstPhilosophy1614, First Meditation, p. 3]
 
 In this article, I will outline 
 [W. V. O. Quine's](https://en.wikipedia.org/wiki/Willard_Van_Orman_Quine) 
 thesis on the development of a naturalistic approach in epistemology 
 and the related discussion that has emerged from his proposal. 
 I will also present my views on this venture.
-The goals of this article are to explore the limits and required conditions 
+The goals of this article are to explore the limits and necessary conditions 
 of science in general and neuroscience in particular,
 but also to assess to what extent the scientific study of the mind 
 can contribute to the foundation of scientific practice itself. 
 I chose to enter into such an endeavour 
-through reconstitution of Quine's arguments 
+through the reconstitution of Quine's arguments 
 as formulated mainly in the articles 
-“*Epistemology Naturalized*” [@quineEpistemologyNaturalized1969]
-and “*Two Dogmas of Empiricism*” [@quineTwoDogmasEmpiricism1951], 
+*"Epistemology Naturalized”* [@quineEpistemologyNaturalized1969]
+and *"Two Dogmas of Empiricism”* [@quineTwoDogmasEmpiricism1951], 
 and a selective review of articles from the later literature.
 
 ## Introduction
@@ -46,11 +47,11 @@ what is knowledge, how we acquire it and what we have the capacity know.
 Its specific objectives are to address the relevant issues
 in the context of scientific practice, 
 as this can be considered the field in which knowledge processes 
-can be better described in relation to common social practice 
+are best discernable
 but also the field in which epistemological positions have 
-the most direct impact.
+the most concrete impact.
 The roots of epistemology can be traced 
-even to the oldest philosophical texts,
+to the oldest philosophical texts,
 and certainly to those of Aristotle and Plato.
 
 ### Enlightenment
@@ -84,21 +85,22 @@ the concept of causality does not appear to exist in the world;
 even the most stereotypical interaction between objects in the real world 
 could evolve differently in some repetition,
 without us being able to distinguish the reason for this deviation
--- the methodological component.
+The question of which processes we follow to describe
+our acquisition of knowledge form the the methodological component of the issue.
 Therefore, this thesis leads to a degree of skepticism 
 as to what we can know.
 Hume argued that our senses are the only way we have to know the world 
 and that is enough for our usual needs, 
 as long as the world is uniform and does not change suddenly
-[@earmanConfirmationScientificHypotheses1992a, pp. 66].
+[@salmonIntroductionPhilosophyScience1992, p. 66].
 
 Although Hume's position was not initially well received
 [@fieserHumeMetaphysicalEpistemological2011; @loseeHistoricalIntroductionPhilosophy2001]
-it now holds an important place in the history of philosophy 
-and the current that is included is called 
+it now holds an important place in the history of philosophy.
+The current that formed from this thesis is called
 [*empiricism*](https://en.wikipedia.org/wiki/Empiricism).
-The next very important contribution to the subject 
-was that of [Immanuel Kant](https://en.wikipedia.org/wiki/Immanuel_Kant).
+The next important milestone to the subject 
+was the contribution of [Immanuel Kant](https://en.wikipedia.org/wiki/Immanuel_Kant).
 Kant argued that we can have no sensory experience
 without the contribution of the mind.
 It is in the unchanging and universal 
@@ -112,7 +114,7 @@ which largely derive their origin from the work of Aristotle
 [@mccormickImmanuelKantMetaphysics2020].
 He believed that these properties of the mind 
 could be deducted using formal logic 
-and in combination with the innate spatio-temporal perception 
+and that in combination with the innate spatio-temporal perception 
 as well as higher logic, 
 can jointly enable the knowledge of the world 
 and the construction of a coherent system of knowledge
@@ -126,33 +128,34 @@ to the contribution of the Copernican revolution
 
 ### 20<sup>*th*</sup> century
 
-Through the efforts of Gotlöb Frege and Bertrand Russell 
-to reduce mathematics to formal logic, 
-a systematic language emerged 
-with which older problems could now be described.
+Through their efforts to reduce mathematics to formal logic, 
+Gotlöb Frege and Bertrand Russell 
+devised a systematic language 
+with which older problems of epistemology could now be addressed.
 After Einstein's theory of relativity challenged 
 the universal validity of Newton's theory, 
-the philosophers who participated in the so-called "Vienna Circle"
+those philosophers who followed Frege's and Russell's work 
+--the so-called "Vienna Circle"--
 made an attempt to use this propositional logic
 to dispel any metaphysics from philosophy.
 This historical turning point is often referred to 
-as the "*linguistic turn*" in analytic philosophy.
+as the *"linguistic turn"* in analytic philosophy.
 Any observational proposition would now 
 be articulated in terms of formal logic 
-and would have to be able to be empirically verified 
+and would have to be empirically verifiable 
 to be considered meaningful.
 This requirement for any proposition 
-to be verifiable in order to make sense 
-(and not to be placed in the realm of metaphysics)
-is known as the *criterion of verifiability* 
-and the theoretical framework in which it was articulated,
-the [*verification theory of meaning*](https://en.wikipedia.org/wiki/Verificationism).
-It would therefore be possible 
+to be verifiable to make sense,
+i.e. to not be placed in the realm of metaphysics,
+is known as the *criterion of verifiability*.
+The theoretical framework in which it was articulated
+is called the [*verification theory of meaning*](https://en.wikipedia.org/wiki/Verificationism).
+
+Under this theory it would be possible 
 to build the necessary set of propositions 
 on which scientific practice could be based.
-Kant's contribution to the knowledge of the world 
-that Kant proposed would have been replaced 
-by the grid of logical relations 
+Kant proposed framework would be replaced 
+by the network of logical relations 
 between observational propositions 
 and the axioms of formal logic.
 The scientific propositions would therefore be divided 
@@ -161,13 +164,14 @@ with the former not requiring empirical verification
 and being logically self-evident, 
 and the latter being those 
 whose meaning derives from their empirical verification.
-One of the representatives of 
-[*Logical Positivism*](https://en.wikipedia.org/wiki/Logical_positivism), 
-as the philosophical current is called, 
-who is considered to have managed 
-to get closer to the desired achievement was 
+The philosophical current that followed this approach is called
+[*Logical Positivism*](https://en.wikipedia.org/wiki/Logical_positivism).
+
+The representative of Logical Positivism
+who is considered the one that 
+got closer to the desired achievement was 
 [Rudolf Carnap](https://en.wikipedia.org/wiki/Rudolf_Carnap)
-[@earmanConfirmationScientificHypotheses1992a, p. 85].
+[@salmonIntroductionPhilosophyScience1992, p. 85].
 More specifically, 
 Carnap attempted to structure an inductive logic system 
 to the standards of Frege and Russell's deductive logic, 
@@ -175,10 +179,10 @@ which would result in an answer to the induction problem
 on the solid basis of formal logic.
 The main problem Carnap faced was that, 
 even if he managed to complete the task he had undertaken, 
-he would have to be able to prove 
+he would have to prove 
 the validity of the verifiability criterion itself
 within the system he produced 
-and how analytic propositions within this system are supported.
+to show how analytic propositions within this system are supported.
 But as 
 [Kurt Gödel](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del) 
 has shown, 
@@ -186,8 +190,9 @@ using Hilbert's arsenal of formal logic and mathematical formalism,
 there is no consistent axiomatic (mathematical) system 
 in which its own fundamental axioms can be proved.
 Therefore, for Carnap to succeed, 
-he would have to explain 
-the role of analytic propositions in his system.
+he would still have to explain 
+the role of analytic propositions in his system
+without relying on the criterion of verifiability.
 
 ### The Carnap-Quine dispute
 
@@ -213,15 +218,15 @@ and pragmatic faith in the system
 -- otherwise, formulated within the system, 
 its answer is analytic and trivial.
 
-Quine's critique in the much-discussed article 
+Quine's critique on Carnap's project in the much-discussed article 
 "Two Dogmas of Empiricism” [@quineTwoDogmasEmpiricism1951] 
-on Carnap's project focused on two interconnected points.
+focused on two interconnected points.
 First, he argued that the attempt to discriminate
 between analytic and synthetic sentences 
 is artificial and vague.
 Such a distinction can not be supported and is not fruitful, 
 and therefore is a metaphysical belief 
--- exactly what the empiricists of the Vienna cycle wanted to avoid.
+--exactly what the empiricists of the Vienna cycle wanted to avoid.
 The existence of analyticity becomes problematic 
 as the analyticity of a sentence cannot be verified.
 Therefore, the criterion of verifiability, 
@@ -243,7 +248,7 @@ one can only accept the confirmatory empirical observations
 as the final evidence for a proposition's degree of truth.
 
 Quine goes even further 
-and presents a positive counter-proposition: 
+and presents a positive counter-proposal: 
 he argues that "the unit of empirical significance is the whole of science" 
 [@quineTwoDogmasEmpiricism1951, p. 39].
 "The totality of our so-called knowledge or beliefs, 
@@ -323,15 +328,15 @@ that the above analogy between human development and epistemology holds,
 this has important consequences according to him.
 On the one hand, 
 the possibility of directly reducing epistemology to logic is ruled out,
-as infinite possible reconstructions are in principle possible.
+as an infinite number of reconstructions are in principle possible.
 All the advantages that such a reduction would have 
 (which in the meantime turned into a reduction to logic 
 in conjunction with set theory, 
 a drastic ontological move according to him) 
--- the "purity" of logic as reliable and self-evident 
+--the "purity" of logic as reliable and self-evident, 
 and therefore the explanation of empirical data in clearer terms, 
-the standardization of scientific explanations 
-and the possible simplification of vocabulary --
+the standardization of scientific explanations,
+and the possible simplification of vocabulary--
 can not be established
 [@quineEpistemologyNaturalized1969, p. 74-75].
 This observation leads Quine to note 
@@ -360,7 +365,7 @@ Quine, of course, immediately realizes the circularity of the project.
 However, he considers arguments against circularity pointless
 "once we have stopped dreaming of deducing science from observations"
 [@quineEpistemologyNaturalized1969, p. 76].
-He often likens the project to Neurath's boat
+He often likens the project to [Neurath's boat](/post/neuraths-boat)
 [@quineEpistemologyNaturalized1969, p. 84; @quineWordObject1960, p. 3];
 the aim is to reconstruct the boat 
 while it is already floating in the middle of the sea.
@@ -393,7 +398,7 @@ epistemology in natural science and natural science in epistemology."
 
 Quine identifies two consequences arising from the above:
 First, the problem of epistemological priority is solved, 
-that is, whether observation --and consequently knowledge-- 
+that is, whether observation --and consequently knowledge--
 consists of sensory data or their conscious awareness.
 Epistemological priority is given 
 to what is causally closest to the sensory receptors.
@@ -566,7 +571,7 @@ an accurate representation of the world itself
 or is it merely an instrumental conceptual form 
 that we can use to access it?
 One would expect that the certainty required 
-to advance the naturalistic approach to the prevailing epistemological approach
+to promote the naturalistic approach as the prevailing epistemological approach
 would force any proponent to argue that scientific knowledge is real.
 But the indeterminacy of translation 
 seems to lead directly to anti-realism.
@@ -581,7 +586,7 @@ to two perceived deficiencies that naturalism is charged with,
 the argument from normativity and the argument from circularity, 
 as well as from differing opinions 
 on the degree of transformation of epistemology itself 
-after entrance of naturalism.
+after the emergence of naturalism.
 We will now examine whether the existence of *a priori* knowledge 
 and the possible sources of reliability 
 that can emerge in the context of scientific research 
@@ -648,11 +653,11 @@ will continue to evolve along the way.
 In fact, it is difficult to see how the whole of human knowledge 
 can be judged on the same terms 
 that circular arguments are judged to be fallacious.
+
 Therefore, in relation to the issue of circularity, 
 the two different approaches seem to be equivalent.
 In a rational reconstruction, 
-assuming that there can exist one 
-to be more successful than those already tested, 
+assuming that one more successful than those already tested can exist,
 one or some of the cognitive or other qualities of man 
 (or even human societies)
 will be considered the fundamental building blocks 
@@ -732,7 +737,7 @@ by any scientific theory that will take on the task,
 we can assume that we will then be able to approach 
 the question of which of the mediating processes are reliable 
 and which are the ones that provide correct conclusions.
-And in this endeavor we can, possibly, 
+And in this endeavour we can, possibly, 
 find some support from evolutionary theory 
 [@churchlandEpistemologyAgeNeuroscience1987; @kitcherNaturalistsReturn1992; @quineEpistemologyNaturalized1969; @rosenbergNaturalisticEpistemologyEliminative1999].
 
@@ -740,7 +745,7 @@ The human mind, insofar as it is a product of the human body,
 should be considered the result of biological evolution.
 This does not mean, of course, 
 that the resulting picture will provide us with 
-the necessary certainty against epistemological skepticism.
+the necessary certainty against epistemological scepticism.
 However, it is able to place the processes that lead to knowledge 
 in an evolutionary framework that will not isolate purely human properties 
 from the rest of the phylogenetic scale 
