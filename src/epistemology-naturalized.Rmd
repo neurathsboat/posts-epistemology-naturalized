@@ -48,7 +48,7 @@ The specific objective of epistemology is to address the relevant issues
 in the context of scientific practice, 
 as this can be considered the field in which knowledge processes 
 are best discernable
-but also the field in which epistemological positions have 
+but also the field in which epistemological perspectives have 
 the most concrete impact.
 The roots of epistemology can be traced 
 to the oldest philosophical texts,
@@ -70,16 +70,16 @@ Descartes' search for the foundations of knowledge
 emerged from challenging the established beliefs 
 and the reliability of sensory experience. 
 [David Hume](https://en.wikipedia.org/wiki/David_Hume)
-gave a different answer to the same question, 
+approached the same challenge from a different point of view, 
 arguing that any intuition we have 
-as well as the ability to reason 
+and our ability to reason 
 are equally susceptible to error 
-as sensory experience,
-given that our interface with the world is exclusively through the senses.
+as our sensory experience 
+since our interface with the world is exclusively through the senses.
 The source of unreliability is therefore attributed,
 according to Hume,
 to basing our intuitions on our susceptible to error senses.
-Therefore, Hume's response leads to a degree of scepticism 
+Therefore, Hume's response leads to a degree of skepticism 
 as to what we can know.
 Hume argued that our senses are the only way we have to know the world 
 and that is enough for our usual needs, 
@@ -92,10 +92,11 @@ The current that formed from this thesis is called
 [*empiricism*](https://en.wikipedia.org/wiki/Empiricism).
 
 The problem of deriving our intuitions
-from empirical observations is known as *the problem of induction*.
+from empirical observations is known as the *problem of induction*.
 The ontological component of the problem of induction
 concerns the fact that
-the concept of causality does not appear to exist in the world; 
+the concept of causality does not appear to exist in the world
+independent of the agent doing the reasoning; 
 even the most stereotypical interaction between objects in the real world 
 could evolve differently in some repetition,
 without us being able to distinguish the reason for this deviation.
@@ -109,7 +110,7 @@ without the contribution of the mind.
 It is in the unchanging and universal 
 *a priori* properties of the mind 
 that we must focus our attention 
-on to produce reliable judgments 
+on to produce reliable judgements 
 and beliefs about the world.
 He even suggested a series of *a priori* 
 contributions of the mind to the understanding of the world, 
@@ -155,7 +156,7 @@ The theoretical framework in which it was articulated
 is called the [*verification theory of meaning*](https://en.wikipedia.org/wiki/Verificationism).
 
 Under this theory it would be possible 
-to build the necessary set of propositions 
+to build the set of necessary propositions 
 on which scientific practice could be based.
 Kant's proposed framework would be replaced 
 by the network of logical relations 
@@ -178,14 +179,13 @@ got closer to the desired achievement was
 More specifically, 
 Carnap attempted to structure an inductive logic system 
 to the standards of Frege and Russell's deductive logic, 
-which would result in an answer to the induction problem 
+which would resolve the induction problem 
 on the solid basis of formal logic.
-The main problem Carnap faced was that, 
-even if he managed to complete the task he had undertaken, 
-to show how analytic propositions within this system are supported
-he would have to prove 
-the validity of the verifiability criterion itself
-within the system he produced.
+The main problem he faced was that 
+even if he managed to complete the task at hand, 
+Carnap would still have to prove the validity of the verifiability criterion 
+within the system he produced 
+to show how analytic propositions are supported.
 But as 
 [Kurt Gödel](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del) 
 has shown
@@ -193,9 +193,8 @@ using Hilbert's arsenal of formal logic and mathematical formalism,
 there is no consistent axiomatic (mathematical) system 
 in which its own fundamental axioms can be proved.
 Therefore, for Carnap to succeed, 
-he would still have to explain 
-the role of analytic propositions in his system
-without relying on the criterion of verifiability.
+he would still have to explain the role of analytic propositions 
+in his system without relying on the verifiability criterion.
 
 ### The Carnap-Quine dispute
 
@@ -264,7 +263,7 @@ The above passage presents what Quine proposed
 as a replacement for the two doctrines of logical empiricism 
 --the *doctrine of holism*, which he attributed to Duhem 
 [@quineEpistemologyNaturalized1969, p. 267].
-According to this, 
+According to this doctrine, 
 the whole body of our empirical knowledge 
 is tested with every new observation 
 and no part of it is immune to revision 
@@ -317,7 +316,7 @@ It is said that theory is *underdetermined* by experience
 The only way forward is to make some arbitrary choices 
 along the way towards the full translation, 
 which will only be verifiable and correctable 
-based on the following observations.
+based on the observations to follow.
 It is also reasonable to assume that 
 concepts form in a similar way 
 during the development of infants 
@@ -518,7 +517,7 @@ seem to agree with the rejection of every *a priori* knowledge
 and even every *a priori* epistemological principle
 [@kitcherNaturalistsReturn1992; @rosenbergFieldGuideRecent1996].
 The qualification of the scientific methodology 
-and empirical search follows from there.
+and empirical research follows from there.
 In addition, since naturalists denounce every solid foundation, 
 they must look for processes or properties 
 that are reliable enough to fill in 
@@ -526,7 +525,7 @@ the role of *a priori* categories and principles
 (credibility for Kitcher, evolutionary theory for Rosenberg).
 
 A controversy appears
-about the weight that the scientific explanation effort should carry 
+about the weight that the efforts for a scientific explanation should carry 
 and the relative role of philosophy and science.
 We can thus distinguish naturalists 
 to those who argue that epistemology should be completely replaced by science 
@@ -565,8 +564,8 @@ the contribution of the study of the sociological
 and historical aspects of the issue to epistemology 
 [@quineEpistemologyNaturalized1969, p. 87].
 
-Disagreements also arise over how one places oneself 
-in the dilemma of realism versus anti-realism.
+Disagreements also arise over one's position 
+regarding the dilemma of realism versus anti-realism.
 In simple terms, this dilemma can be expressed as follows: 
 is the image of the world that science offers us
 an accurate representation of the world itself 
@@ -574,7 +573,8 @@ or is it merely an instrumental conceptual form
 that we can use to access it?
 One would expect that the certainty required 
 to promote the naturalistic approach as the prevailing epistemological approach
-would force any proponent to argue that scientific knowledge is real.
+would force any proponent to argue that scientific knowledge 
+provide us an accurate depiction of reality.
 But the indeterminacy of translation 
 seems to lead directly to anti-realism.
 Since two or more theories may equally well 
@@ -583,16 +583,16 @@ which of the possible worlds they describe is real?
 
 All these disagreements around 
 the degree to which science should be involved in epistemology
-stem from the answers the naturalists attempt to provide
-to two perceived deficiencies that naturalism is charged with
+stem from the answers that naturalists attempt to provide
+to the two perceived deficiencies of naturalism
 --the argument from normativity and the argument from circularity--
 as well as from differing opinions 
-on the degree of transformation of epistemology itself 
+on the degree of epistemology's transformation 
 after the emergence of naturalism.
-We will now examine whether the existence of *a priori* knowledge 
-and the possible sources of reliability 
-that can emerge in the context of scientific research 
-can be supported if we assume the naturalistic approach.
+We will now examine whether *a priori* knowledge is supported 
+assuming a naturalistic approach 
+and the alternative sources of reliability 
+that can emerge through scientific research.
 
 #### The argument from circularity
 
@@ -603,7 +603,7 @@ The use of science in the attempt to explain the phenomenon of knowledge
 and science itself involves circularity: 
 it appears to presuppose what is being attempted to explain.
 It is tantamount to question-begging 
-and this is automatically considered condemnatory of any argument: 
+and would be automatically considered condemnatory of any argument: 
 the conclusion of the argument necessarily follows from one of the premises.
 To put it another way, 
 how can one convince Descartes' Skeptic 
@@ -619,7 +619,7 @@ An answer given to this argument by the supporters of the naturalistic approach,
 following Hume, is that in no way can we overcome our cognitive limitations.
 There is no way we can guarantee the certainty of our experience.
 As we have seen, Quine tells us that the problem no longer exists, 
-as long as we stop dreaming of the logical reconstruction of science.
+as long as we stop dreaming of a logical reconstruction of science.
 The problem can be approached scientifically:
 "Subtracting his cues from his world view, 
 we get man’s net contribution as the difference".
@@ -639,22 +639,22 @@ would be equally doomed to circularity,
 as it would have to assume itself 
 before trying to explain how it leads to knowledge.
 
-Furthermore, a circular argument whose circle is large enough, 
-such as a dictionary containing all the words of a language, 
-does provide some information and therefore cannot be considered a fallacy 
+Furthermore, a circular set of propositions whose circle is large enough, 
+like a dictionary containing all the words of a language, 
+does provide some information and cannot be considered a fallacy 
 [@dowdenFallacies2020].
 Something analogous in epistemology could be 
 to form an as complete as possible dictionary
-for the components of knowledge.
+of knowledge components.
 Logical Positivism proposed the language of formal logic 
 (later supplemented by set theory);
 Quine proposed a change of language in favour of the language of science, 
-or, in any case, the language that describes the world as it is.
-And it is to be expected that the language itself 
+or, in any case, the language closest to describing the world as it is.
+And it is to be expected that language 
 will continue to evolve along the way.
 It is difficult to see how the whole of human knowledge 
-can be judged on the same terms 
-that circular arguments are judged to be fallacious.
+can be judged as fallacious
+the same way as circular arguments.
 
 Therefore, in relation to the issue of circularity, 
 the two different approaches seem to be equivalent.
@@ -669,14 +669,14 @@ the equivalent to those foundations (the axioms of science)
 will be under constant review as new empirical data emerge.
 In the first case, the circle will be closed at the base of the hierarchy, 
 close to the structural elements, which will be considered stable 
-and any changes will be made to the elements closest to the periphery, 
-while in the second, the structural elements can be constantly revised, 
+and any changes will be made to the elements closest to the periphery.
+In the second case, the structural elements can be constantly revised, 
 as often as needed based on new findings.
 
 #### The argument from normativity
 
-The proposal to adopt the naturalistic approach to epistemology 
-has been accused of ignoring the normative aspect of epistemology.
+The proponents of the naturalistic approach to epistemology 
+have been accused of ignoring the normative aspect of epistemology.
 This aspect deals with the search for methods and values 
 that should guide our decision making and our practice,
 and, in the context of epistemology, concerns 
@@ -727,7 +727,7 @@ and how their meanings participate in the phenomena that interest us.
 
 What is certain is that modern epistemology has moved away 
 from trying to explain these phenomena 
-in terms of the formal logic like Logical Positivism attempted
+in terms of formal logic like Logical Positivism attempted
 [@kitcherNaturalistsReturn1992].
 If we choose the scientific approach, 
 our theories will certainly be descriptive, 
@@ -747,7 +747,7 @@ The human mind, insofar as it is a product of the human body,
 should be considered the result of biological evolution.
 This does not mean, of course, 
 that the resulting picture will provide us with 
-certainty against epistemological scepticism.
+certainty against epistemological skepticism.
 However, it can place the processes that lead to knowledge 
 in an evolutionary framework that will not isolate purely human properties 
 from the rest of the phylogenetic scale 
@@ -782,10 +782,10 @@ to have been instrumental in overthrowing the approach of Logical Positivism.
 The foundation of *a priori* knowledge in a linguistic approach
 as originally envisioned by Carnap could not succeed.
 Both Carnap himself in his latest writings and Quine showed that.
-However, contrary to Quine's approach, 
-not everyone agrees that the rejection of a foundation in formal logic 
-negates the possibility of producing 
-an *a priori* knowledge explanation in another context.
+However, contrary to Quine, 
+not everyone agrees that the rejection of a foundation of knowledge in formal logic 
+negates the possibility of a reconstruction
+based on any *a priori* conceptualization.
 
 Some, therefore, disagree with Quine's first dogma
 and the reduction of meaning to the stimulation of our sensory receptors
@@ -809,7 +809,7 @@ As the core assumptions, logic and mathematics are not tested
 in each experiment
 [@friedmanPhilosophicalNaturalism1997; @soberQuineElliottSober2000].
 Even if Kant's *a priori* framework, 
-or whatever else we can perceive does not apply,
+or any other intuition we may have does not apply,
 some preconditions of empirical science must always exist
 to serve as the constitutional function that Kant,
 at least according to one reading, had in mind
@@ -937,7 +937,8 @@ can only be regarded as an advantage.
 Since it is proven that any rational reconstruction of knowledge 
 will necessarily be impossible or incoherent, 
 any limits or constraints on our perception of the world 
-and our actions are bound to be arbitrary.
+and our actions are bound to be arbitrary
+if they are not based on empirical research.
 
 Although such a presentation is not the subject of this work,
 efforts to articulate such integrated theories exist.
@@ -1011,7 +1012,7 @@ scientists often resort to more holistic explanations,
 especially in times of crisis.
 I believe that the present situation, 
 with the attack of the natural sciences 
-on questions about the nature of the phenomena of the mind, 
+on questions about the nature of mental phenomena, 
 is one of them.
 
 We can argue that, to some extent,
@@ -1087,7 +1088,7 @@ as Quine describes science,
 is that which appears to display the most potential for describing to us the world.
 We must use its findings with due respect for its limitations and specifications,
 at the cost of continually reviewing its results 
-and all the other virtues that make science possible.
+and by taking all the other virtues that make science possible as given.
 
 The relativism stemming from a scientific inquiry 
 of epistemology's foundations should not frighten us.
@@ -1096,13 +1097,15 @@ should be taken for granted and should not be obscured.
 Only through deliberate study 
 along the lines we have outlined 
 can a continued reconstruction of the related phenomena's useful features 
-be produced to help us become more and more aware 
+be produced.
+Such an empirical reconstruction will help us become more and more aware 
 of our structural relations with the world 
 and the ways in which we interact. 
 Our species stands out through our ability 
 to reflect on our own history over long periods of time, 
 both individually and collectively. 
-We must pursue this reflection by every means at the disposal of the human mind.
+We must pursue opportunities for reflection 
+by every means at the disposal of the human mind.
 Although all this may sound idealized, 
 we can not afford to leave it to chance.
 A well-defined dividing line between philosophy and science is of no use
