@@ -125,7 +125,7 @@ deploy:
                   if (length("$R_PACKAGES") > 0) {install.packages("$R_PACKAGES")};
                   library(rmarkdown);
                   setwd('$CI_PROJECT_NAME/src');
-                  render('$CI_PROJECT_NAME.Rmd', output_file = 'index.md');
+                  render('$CI_PROJECT_NAME.Rmd', output_file = 'src/index.md');
                   source('ProcessRmd.R')"
     - cd $CI_PROJECT_NAME
     - cp "$FEATURED_IMAGE_PATH" featured.png
