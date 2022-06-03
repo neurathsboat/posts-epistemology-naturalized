@@ -5,7 +5,7 @@ date = 2022-05-22
 lastmod = 2022-05-22
 draft = false
 
-tags = ["philosopy", "epistemology"]
+tags = ["philosophy", "epistemology"]
 summary = "The implications of Quine's work for the foundations of science"
 abstract = "The implications of Quine's work for the foundations of science"
 authors = ["Vassilis Kehayas"]
