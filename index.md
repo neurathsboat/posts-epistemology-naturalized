@@ -10,7 +10,7 @@ summary = "The implications of Quine's work for the foundations of science"
 abstract = "The implications of Quine's work for the foundations of science"
 authors = ["Vassilis Kehayas"]
 hasPlotly = false
-doi = ""
+doi = "https://doi.org/10.5281/zenodo.6610265"
 sourceFile = "src/epistemology-naturalized.Rmd"
 
 +++
