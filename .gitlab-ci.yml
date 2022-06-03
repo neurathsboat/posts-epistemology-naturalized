@@ -130,7 +130,7 @@ deploy:
                   render('src/$CI_PROJECT_NAME.Rmd', output_file = 'index.md');
                   source('src/ProcessRmd.R')"
     - cd $CI_PROJECT_NAME
-    - cp "$FEATURED_IMAGE_PATH" featured.png
+    - mv "$FEATURED_IMAGE_PATH" featured.png
     - git add .
     - git commit -m "CI commit"
     - git push -u origin master
