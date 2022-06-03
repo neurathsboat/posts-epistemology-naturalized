@@ -9,8 +9,8 @@ InsertHeader = function(fileName) {
 }
 
 # Post-process .md file
-InsertHeader("index.md")
+InsertHeader("src/index.md")
 
 # Move new file one level up
 
-system(paste("mv", "index.md", "../index.md"))
+system(paste("mv", "src/index.md", "index.md"))
